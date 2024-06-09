@@ -1,0 +1,16 @@
+{
+  "name": "sst-backend-projects",
+  "version": "1.0.0",
+  "description": "a bacnken project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backened",
+    "sst"
+  ],
+  "author": "R.S.Sharma",
+  "license": "ISC"
+}
